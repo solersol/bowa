@@ -523,7 +523,7 @@ p {
 }
 
 .nav-bg .bor:after {
-    background: #68984c;
+    background: #39FF14;
 }
 
 .nav-bg .bor:hover {
@@ -624,7 +624,7 @@ p {
     content: '';
     top: 10px;
     left: 0;
-    background: #68984c;
+    background: #39FF14;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -1009,7 +1009,7 @@ over-btn a i {
     content: '';
     top: 10px;
     left: 0;
-    background: #68984c;
+    background: #39FF14;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
