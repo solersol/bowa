@@ -532,7 +532,7 @@ p {
 }
 
 .nav-bg .bor:after {
-    background: #39FF14;
+    background: #708090;
 }
 
 .nav-bg .bor:hover {
@@ -585,17 +585,17 @@ p {
 }
 
 .banner-txt h3 {
-    font-size: 46px;
+    font-size: 39px;
     font-family: pb;
-    color: #708090;
+    color: #FFFFFF;
     line-height: 55px;
     padding-bottom: 23px;
     padding-top: 16px;
 }
 .banner-txt h2{
-    font-size: 38px;
+    font-size: 31px;
     font-family: pb;
-    color: #536878;
+    color: #FFFFFF;
     line-height: 75px;
     padding-bottom: 23px;
     padding-top: 16px;
@@ -633,7 +633,7 @@ p {
     content: '';
     top: 10px;
     left: 0;
-    background: #39FF14;
+    background: #708090;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -1018,7 +1018,7 @@ over-btn a i {
     content: '';
     top: 10px;
     left: 0;
-    background: #39FF14;
+    background: #708090;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;

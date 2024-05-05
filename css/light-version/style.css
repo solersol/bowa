@@ -539,7 +539,7 @@ p {
 .banner-txt h3 {
     font-size: 36px;
     font-family: pb;
-    color: #708090;
+    color: #FFFFFF;
     line-height: 45px;
     padding-bottom: 23px;
     padding-top: 16px;
@@ -547,7 +547,7 @@ p {
 
 .banner-txt p {
     font-size: 16px;
-    color: #666;
+    color: #FFFFFF;
     padding-right: 40px;
     line-height: 26px;
     padding-bottom: 45px;
@@ -560,7 +560,7 @@ p {
 
 .banner-txt a {
     padding: 14px 20px;
-    background: #708090;
+    background: #FFFFFF;
     color: white;
     font-family: pb;
     font-size: 18px;
@@ -578,7 +578,7 @@ p {
     content: '';
     top: 10px;
     left: 0;
-    background: #39FF14;
+    background: #708090;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -950,7 +950,7 @@ over-btn a i {
     content: '';
     top: 10px;
     left: 0;
-    background: #39FF14;
+    background: #708090;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
