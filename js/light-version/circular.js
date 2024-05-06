@@ -90,7 +90,7 @@
 var options = {
     scaleColor: false,
     trackColor: '#e5e5e5',
-    barColor: '#da0062',
+    barColor: '#cd071e',
     lineWidth: 5,
     lineCap: 'butt',
     size: 80
